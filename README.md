@@ -80,35 +80,8 @@ PhishSim/
 
    * Email open triggers an `opened_at` timestamp.
    * Link click triggers a `clicked_at` timestamp.
-4. **Educate Users** – After interacting, users are redirected to a learning page.
+4. **Educate Users** – After interacting, users are redirected to a learning page
 
----
-
-## 📸 Screenshots
-
-### 📊 Dashboard Overview
-
-![Dashboard](assets/dashboard.png)
-
----
-
-### 📋 Campaigns Page
-
-![Campaigns](assets/Campaigns.png)
-
----
-
-### 📨 Email Templates Section
-
-![Templates](assets/Templates.png)
-
----
-
-### 🎓 Post-Campaign Education Page
-
-![Education](assets/Education.png)
-
----
 
 ## 📦 Installation & Setup
 
